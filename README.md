@@ -9,6 +9,8 @@ display the location of the tourist trap on Google Maps along with a marker.
 
 Users can also post tourist traps that they would like other users to be aware of.
 
+**Note: This is a work in progress, I would like to improve the UI and add more features such as searching for specific areas, the ability to add multiple images, etc.**
+
 
 ![Discover Page](images/discover.png)
 
